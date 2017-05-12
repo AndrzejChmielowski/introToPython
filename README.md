@@ -19,7 +19,8 @@ Zaliczenie zajęć będzie bazować na dwóch rzeczach:
  * Praca na zajęciach i zadania domowe(75%)
 
 Brak obecności na zajęciach można nadrobić poprzez zaliczenie jednego z kursów:
- *  [CodeAcademy](https://www.codecademy.com/learn/python)
+ * [CodeAcademy](https://www.codecademy.com/learn/python)
+ * [Coursera](https://www.coursera.org/specializations/python?utm_source=gg&utm_medium=sem&campaignid=680831918&adgroupid=36454226802&device=c&keyword=coursera%20python&matchtype=e&network=g&devicemodel=&adpostion=1t1&creativeid=149982235172&hide_mobile_promo&gclid=CjwKEAjwutXIBRDV7-SDvdiNsUoSJACIlTqlvp0Kgrz58yJfTAo7yy2qGTDi7Pm1H-eR5YdTtTKCNBoCEJ7w_wcB)
 
 Termin przesłania zadań domowych: **niedziela, 28 maja**.
 Oceny wystawię po sprawdzeniu zadań domowych (**1 czerwca**).
@@ -32,8 +33,14 @@ Przelicznik punktów na ocenę:
  * 75%: dobry
  * 95% bardzo dobry
 
-## Misc
+## Pytania do zajęć
 W razie pytań dot. zajęć, zadań, proszę stworzyć **[issue](https://github.com/tomekd/introToPython/issues)**.
 Inną drogą jest bezpośrednie napisanie wiadomości na adres t.dwojak@amu.edu.pl.
 
 ## Materiały dodatkowe
+Python jest bardzo popularnym językiem programowania, stąd istnieje bardzo dużo różnych tutoriali na różnym poziomie zaawansowania.
+ * [Udacity](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+ * [CodeAcademy](https://www.codecademy.com/learn/python)
+ * [Coursera](https://www.coursera.org/specializations/python?utm_source=gg&utm_medium=sem&campaignid=680831918&adgroupid=36454226802&device=c&keyword=coursera%20python&matchtype=e&network=g&devicemodel=&adpostion=1t1&creativeid=149982235172&hide_mobile_promo&gclid=CjwKEAjwutXIBRDV7-SDvdiNsUoSJACIlTqlvp0Kgrz58yJfTAo7yy2qGTDi7Pm1H-eR5YdTtTKCNBoCEJ7w_wcB)
+ * [Dive Into Python](http://www.diveintopython.net/toc/index.html)
+ * [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
