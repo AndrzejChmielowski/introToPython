@@ -28,14 +28,16 @@ Oceny wystawię po sprawdzeniu zadań domowych (**1 czerwca**).
 [Link](https://docs.google.com/spreadsheets/d/1ozEBgdtWbOWGvrcqc8WWPT7TVa49_hHyzGCU8So525I/edit?usp=sharing)
 do arkusza z obecną punktacją.
 
-Przelicznik punktów na ocenę:
- * 60%: dostateczny
- * 75%: dobry
- * 95% bardzo dobry
+Przelicznik procentów na oceny:
+ * 60%: **dostateczny**
+ * 75%: **dobry**
+ * 95%: **bardzo dobry**
+
+Istnieje opcja innej formy zaliczenia ćwiczeń (mini projekt) dla osób, które już znają Pythona. Szczegóły u prowadzonego.
 
 ## Pytania do zajęć
 W razie pytań dot. zajęć, zadań, proszę stworzyć **[issue](https://github.com/tomekd/introToPython/issues)**.
-Inną drogą jest bezpośrednie napisanie wiadomości na adres t.dwojak@amu.edu.pl.
+Inną drogą jest bezpośrednie napisanie wiadomości na adres e-mailowy: t.dwojak@amu.edu.pl.
 
 ## Materiały dodatkowe
 Python jest bardzo popularnym językiem programowania, stąd istnieje bardzo dużo różnych tutoriali na różnym poziomie zaawansowania.
