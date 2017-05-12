@@ -15,8 +15,8 @@ ramach studiów podyplomowych
 
 ## Zasady zaliczenia
 Zaliczenie zajęć będzie bazować na dwóch rzeczach:
- * Obecność na zajęciach (25%)
- * Praca na zajęciach i zadania domowe(75%)
+ * Obecność na zajęciach (25%),
+ * Praca na zajęciach i zadania domowe (75%).
 
 Brak obecności na zajęciach można nadrobić poprzez zaliczenie jednego z kursów:
  * [CodeAcademy](https://www.codecademy.com/learn/python)
@@ -29,9 +29,9 @@ Oceny wystawię po sprawdzeniu zadań domowych (**1 czerwca**).
 do arkusza z obecną punktacją.
 
 Przelicznik procentów na oceny:
- * 60%: **dostateczny**
- * 75%: **dobry**
- * 95%: **bardzo dobry**
+ * 60%: **dostateczny**,
+ * 75%: **dobry**,
+ * 95%: **bardzo dobry**.
 
 Istnieje opcja innej formy zaliczenia ćwiczeń (mini projekt) dla osób, które już znają Pythona. Szczegóły u prowadzonego.
 
