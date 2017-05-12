@@ -1,17 +1,16 @@
-# Programowanie w Pythonie
+#Programowanie w Pythonie
 
 Materiały do zajęć ''Wprowadzenie do języków skryptowych i R'' prowadzonego w
 ramach studiów podyplomowych
 [Analiza danych i Big Data](https://podyplomowe.wmi.amu.edu.pl/kierunki/przetwarzanie-danych-big-data/).
 
 ## Program zajęć i sylabus:
- * [Laboratoria 1](/labs_1/README.md)
-  * Środowisko pracy: Jupyter, Git, Anaconda
-  * Podstawy Pythona, cz. 1
- * Laboratoria 2
-  * Zadania
- * Laboratoria 3: Pakiety w Pythonie
- * Laboratoria 4: Podstawy analizy danych w Pythonie
+ * [Laboratoria 1](/labs_1/)
+   * Środowisko pracy: Jupyter, Git, Anaconda
+   * Podstawy Pythona, cz. 1
+ * [Laboratoria 2](/labs_2/): Zadania
+ * [Laboratoria 3](/labs_3/): Pakiety w Pythonie
+ * [Laboratoria 4](/labs_4/): Podstawy analizy danych w Pythonie
 
 
 ## Zasady zaliczenia
