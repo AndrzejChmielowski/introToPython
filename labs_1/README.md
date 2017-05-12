@@ -10,7 +10,6 @@ Materiały do zajęć są umieszczone na Githubie.
 ```
 git clone https://github.com/tomekd/introToPython ~/introToPython
 ```
-
 1. Żeby uruchomić Jupyter Notebook wpisz:
 ```
 jupyter notebook
