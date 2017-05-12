@@ -1,4 +1,4 @@
-#Programowanie w Pythonie
+# Programowanie w Pythonie
 
 Materiały do zajęć ''Wprowadzenie do języków skryptowych i R'' prowadzonego w
 ramach studiów podyplomowych
@@ -19,13 +19,13 @@ Zaliczenie zajęć będzie bazować na dwóch rzeczach:
  * Praca na zajęciach i zadania domowe(75%)
 
 Brak obecności na zajęciach można nadrobić poprzez zaliczenie jednego z kursów:
- *  *TODO*: dodać listę kursów
+ *  [CodeAcademy](https://www.codecademy.com/learn/python)
 
 Termin przesłania zadań domowych: **niedziela, 28 maja**.
 Oceny wystawię po sprawdzeniu zadań domowych (**1 czerwca**).
 
-Link do arkusza z obecną punktacją:
-[Punktacja](https://docs.google.com/spreadsheets/d/1ozEBgdtWbOWGvrcqc8WWPT7TVa49_hHyzGCU8So525I/edit?usp=sharing)
+[Link](https://docs.google.com/spreadsheets/d/1ozEBgdtWbOWGvrcqc8WWPT7TVa49_hHyzGCU8So525I/edit?usp=sharing)
+do arkusza z obecną punktacją.
 
 Przelicznik punktów na ocenę:
  * 60%: dostateczny
@@ -33,6 +33,7 @@ Przelicznik punktów na ocenę:
  * 95% bardzo dobry
 
 ## Misc
-W razie pytań dot. zajęć, zadań, proszę stworzyć **[issue](https://github.com/tomekd/introToPython/issues)**. Inną drogą jest bezpośrednie napisanie wiadomości na adres t.dwojak@amu.edu.pl.
+W razie pytań dot. zajęć, zadań, proszę stworzyć **[issue](https://github.com/tomekd/introToPython/issues)**.
+Inną drogą jest bezpośrednie napisanie wiadomości na adres t.dwojak@amu.edu.pl.
 
 ## Materiały dodatkowe
