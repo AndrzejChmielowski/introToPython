@@ -13,6 +13,7 @@ git clone https://github.com/tomekd/introToPython ~/introToPython
 ```
 1. Żeby uruchomić Jupyter Notebook wpisz:
 ```
+cd introToPython
 jupyter notebook
 ```
 
